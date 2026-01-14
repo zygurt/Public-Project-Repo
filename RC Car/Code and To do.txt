@@ -1,0 +1,6 @@
+DRV8835 Dual Motor Shield
+Arduino Nano
+328P (Old Bootloader)
+AVRISP mkII
+
+Adjust the steering arms so both press fit.

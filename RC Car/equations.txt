@@ -1,0 +1,4 @@
+﻿"Servo_Angle"=45
+"Big_Teeth"= 24
+"Small_Teeth"= 12
+"Kerf"= 0.18mm
